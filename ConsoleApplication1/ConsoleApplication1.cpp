@@ -17,10 +17,15 @@ int main()
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
+<<<<<<< HEAD
+	cout << "Зміна №1.1";
+	cout << "Зміна №1.2";
+=======
 
 	cout << "Зміна №1.1";
 	cout << "Зміна №1.2";
 	cout << "Зміна №2.1";
+>>>>>>> gilka2
 	cin.get();
 	return 0;
 }
